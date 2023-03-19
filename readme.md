@@ -1,10 +1,6 @@
 # Blogger
 
-Headless CMS and API generator for Laravel projects.
-
-# Demo of how Blogger works
-
-- https://www.youtube.com/watch?v=8OreK3jySt8
+WYSIWYG Editor for Laravel
 
 
 # How to Use
